@@ -1,2 +1,5 @@
-aws_key_name = "preeti-key"
-vpc_id       = "vpc-01b35def73b166fdc"
+aws_key_name     = "preeti_key_pair_new"
+vpc_id           = "vpc-01b35def73b166fdc"
+subnet_id        = "subnet-0393e7c5b435bd5b6"
+ami_id           = "ami-0f5ee92e2d63afc18"
+public_key_path  = "C:/Users/HP/Downloads/preeti_key_pair.pub"
